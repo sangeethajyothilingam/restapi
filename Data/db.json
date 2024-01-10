@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "checked": false,
+            "item": "React.js"
+        },
+        {
+            "id": 2,
+            "checked": false,
+            "item": "Next.js"
+        },
+        {
+            "id": 3,
+            "checked": false,
+            "item": "Tailwind.css"
+        }
+    ]
+}
